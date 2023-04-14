@@ -1,4 +1,4 @@
-# bitcoin_seed_phrase_generator
+# Bitcoin Seed Phrase Generator
 
 ![alt text](https://i.ibb.co/YjyyNsz/BTC.png)
 

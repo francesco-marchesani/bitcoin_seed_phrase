@@ -19,7 +19,7 @@ Your <b>privacy</b> and <b>security</b> first:
 * No additional python dependences are required.
 * Only non-deprecated algorithms and libraries are used.
 
-Generated seed phrases can be used in hardware or software wallets (hold your own keys!)
+Generated seed phrases can be used with hardware or software wallets (<i>hold your own keys!</i>)
 
 Did you like the tool? <b>Please donate!</b>
 

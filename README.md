@@ -1,6 +1,6 @@
 # bitcoin_seed_phrase_generator
 
-![alt text](https://i.ibb.co/31JM7X0/BTC.png)
+![alt text](https://i.ibb.co/YjyyNsz/BTC.png)
 
 <b>A Python Script which generates 12-word or 24-word seed phrases starting from a given mnemonic input</b>
 

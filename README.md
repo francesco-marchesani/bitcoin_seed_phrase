@@ -2,7 +2,7 @@
 
 ![alt text](https://i.ibb.co/31JM7X0/BTC.png)
 
-<b>A Python Script which generates 12 or 24 seed phrases starting from a given mnemonic input</b>
+<b>A Python Script which generates 12-word or 24-word seed phrases starting from a given mnemonic input</b>
 
 You can obtain 12-word or 24-word seed phrases starting from a chosen seed (e.g., <i>a password, a passphrase</i>), just run the following command in the CLI:
 
